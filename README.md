@@ -1,4 +1,4 @@
-theme: HACKER
+theme: Hacker
 
 - 👋 Hi, I’m @Alexander-Baker-1
 - 👀 I’m interested in Game Design
